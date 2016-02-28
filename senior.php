@@ -45,6 +45,7 @@ for ($row = 0; $row < 4; $row++) {
 
 echo '<div class="demo"><hr class="spiltLine"/>日期格式化...</div>';
 
+echo "你好 ";
 echo "今天是 " . date("Y/m/d") . "<br>";
 echo "今天是 " . date("Y.m.d") . "<br>";
 echo "今天是 " . date("Y-m-d") . "<br>";
